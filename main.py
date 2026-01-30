@@ -35,7 +35,7 @@ with col5:
         info = "Đây là thông tin của con thiên nga"
 
 with st.sidebar:
-    st.header("Trắc nghiệm tính cách")
+    st.header("Trắc nghiệm tính cách1")
     st.write(f"Con vật bạn chọn là con {name}") 
     
 with st.expander(name):
