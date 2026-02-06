@@ -2,7 +2,7 @@ import streamlit as st
 
 
 st.set_page_config(page_title="Trang chủ", page_icon=":smile:", layout = "centered")
-st.title("Hãy chọn con vật bạn yêu thích")
+st.title("Con vật bạn yêu thích")
 
 col1, col2, col3, col4, col5 = st.columns(5)
 name = ""
